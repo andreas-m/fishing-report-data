@@ -1,0 +1,105 @@
+{
+  "fetchedAt": "2026-04-11T22:28:38.118371+00:00",
+  "regions": [
+    {
+      "name": "Fraser River Mouth & Boundary Bay",
+      "short": "Fraser",
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 5 to 10 knots increasing to southeast 10 to 15 near noon then becoming variable 10 near midnight. Wind becoming northwest 5 to 15 early Sunday morning then becoming light Sunday afternoon. Wind becoming south 5 to 15 Sunday evening. Showers ending near midnight. Fog patches forming after midnight and dissipating Sunday morning.",
+        "winds": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 5 to 10 knots increasing to southeast 10 to 15 near noon then becoming variable 10 near midnight. Wind becoming northwest 5 to 15 early Sunday morning then becoming light Sunday afternoon. Wind becoming south 5 to 15 Sunday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 11 April 2026 Monday Wind northwest 5 to 15 knots becoming southerly 10 to 15 in the afternoon then veering to southwest 10 to 20 late in the day. Tuesday Wind southwest 10 to 20 knots backing to southeast 15 to 25. Wednesday Wind west 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday At 10:30 a.m. PDT today quasi-stationary ridge from high located on a line northeast-southwest over the Alaska panhandle. At 10:30 a.m. PDT today trough located over the Central Coast to the Washington Coast. By midnight PDT tonight trough located from the Central Coast to BC interior.",
+        "safetyLevel": "caution"
+      },
+      "tides": null,
+      "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
+    },
+    {
+      "name": "Gulf Islands",
+      "short": "Gulf Islands",
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Strong wind warning in effect. Wind southerly 5 to 15 knots becoming variable 10 after midnight then increasing to southwest 10 to 15 Sunday afternoon. Wind becoming southwest 10 to 20 Sunday evening except southwest 25 over southern sections. Scattered showers this afternoon and this evening.",
+        "winds": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Strong wind warning in effect. Wind southerly 5 to 15 knots becoming variable 10 after midnight then increasing to southwest 10 to 15 Sunday afternoon. Wind becoming southwest 10 to 20 Sunday evening except southwest 25 over southern sections.",
+        "extended": "Issued&nbsp;04:00 AM PDT 11 April 2026 Monday Wind southwest 10 to 20 knots becoming southwest 15 to 25 late in the day. Tuesday Wind southwest 15 to 25 knots diminishing to southwest 10 to 15. Wednesday Wind southwest 15 to 25 knots diminishing to northwest 10.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday At 10:30 a.m. PDT today quasi-stationary ridge from high located on a line northeast-southwest over the Alaska panhandle. At 10:30 a.m. PDT today trough located over the Central Coast to the Washington Coast. By midnight PDT tonight trough located from the Central Coast to BC interior.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;11&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
+      "tides": null,
+      "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06100"
+    },
+    {
+      "name": "Howe Sound",
+      "short": "Howe Sound",
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 10 knots increasing to southerly inflow 10 to 15 this afternoon then diminishing to light late this evening. Wind becoming northerly outflow 10 to 15 after midnight then diminishing to light Sunday morning. Wind becoming northerly outflow 10 to 15 Sunday afternoon then diminishing to light Sunday evening. Scattered showers this afternoon and this evening.",
+        "winds": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 10 knots increasing to southerly inflow 10 to 15 this afternoon then diminishing to light late this evening. Wind becoming northerly outflow 10 to 15 after midnight then diminishing to light Sunday morning. Wind becoming northerly outflow 10 to 15 Sunday afternoon then diminishing to light Sunday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 11 April 2026 Monday Wind southerly inflow 5 to 15 knots becoming light in the morning then becoming southerly inflow 10 to 15 in the afternoon. Tuesday Wind southerly inflow 10 to 15 knots diminishing to light. Wednesday Wind light.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday At 10:30 a.m. PDT today quasi-stationary ridge from high located on a line northeast-southwest over the Alaska panhandle. At 10:30 a.m. PDT today trough located over the Central Coast to the Washington Coast. By midnight PDT tonight trough located from the Central Coast to BC interior.",
+        "safetyLevel": "caution"
+      },
+      "tides": null,
+      "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06400"
+    },
+    {
+      "name": "Sunshine Coast South",
+      "short": "Sunshine S.",
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 5 to 10 knots increasing to southeast 10 to 20 this afternoon then becoming variable 10 near midnight. Wind increasing to northwest 10 to 15 late overnight. Wind northwest 10 to 15 Sunday. Showers this afternoon tonight and Sunday morning. Fog patches forming after midnight and dissipating Sunday morning.",
+        "winds": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 5 to 10 knots increasing to southeast 10 to 20 this afternoon then becoming variable 10 near midnight. Wind increasing to northwest 10 to 15 late overnight. Wind northwest 10 to 15 Sunday.",
+        "extended": "Issued&nbsp;04:00 AM PDT 11 April 2026 Monday Wind northwest 5 to 15 knots becoming southerly 10 to 15 in the afternoon then veering to southwest 10 to 20 late in the day. Tuesday Wind southwest 10 to 20 knots backing to southeast 15 to 25. Wednesday Wind west 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday At 10:30 a.m. PDT today quasi-stationary ridge from high located on a line northeast-southwest over the Alaska panhandle. At 10:30 a.m. PDT today trough located over the Central Coast to the Washington Coast. By midnight PDT tonight trough located from the Central Coast to BC interior.",
+        "safetyLevel": "caution"
+      },
+      "tides": null,
+      "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
+    },
+    {
+      "name": "Pender Harbour",
+      "short": "Pender Hbr",
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 5 to 10 knots increasing to southeast 10 to 20 this afternoon then becoming variable 10 near midnight. Wind increasing to northwest 10 to 15 late overnight. Wind northwest 10 to 15 Sunday. Showers this afternoon tonight and Sunday morning. Fog patches forming after midnight and dissipating Sunday morning.",
+        "winds": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 5 to 10 knots increasing to southeast 10 to 20 this afternoon then becoming variable 10 near midnight. Wind increasing to northwest 10 to 15 late overnight. Wind northwest 10 to 15 Sunday.",
+        "extended": "Issued&nbsp;04:00 AM PDT 11 April 2026 Monday Wind northwest 5 to 15 knots becoming southerly 10 to 15 in the afternoon then veering to southwest 10 to 20 late in the day. Tuesday Wind southwest 10 to 20 knots backing to southeast 15 to 25. Wednesday Wind west 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday At 10:30 a.m. PDT today quasi-stationary ridge from high located on a line northeast-southwest over the Alaska panhandle. At 10:30 a.m. PDT today trough located over the Central Coast to the Washington Coast. By midnight PDT tonight trough located from the Central Coast to BC interior.",
+        "safetyLevel": "caution"
+      },
+      "tides": null,
+      "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
+    },
+    {
+      "name": "Central Strait of Georgia",
+      "short": "C. Georgia",
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 5 to 10 knots increasing to southeast 10 to 15 near noon then becoming variable 10 near midnight. Wind becoming northwest 5 to 15 early Sunday morning then becoming light Sunday afternoon. Wind becoming south 5 to 15 Sunday evening. Showers ending near midnight. Fog patches forming after midnight and dissipating Sunday morning.",
+        "winds": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Wind variable 5 to 10 knots increasing to southeast 10 to 15 near noon then becoming variable 10 near midnight. Wind becoming northwest 5 to 15 early Sunday morning then becoming light Sunday afternoon. Wind becoming south 5 to 15 Sunday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 11 April 2026 Monday Wind northwest 5 to 15 knots becoming southerly 10 to 15 in the afternoon then veering to southwest 10 to 20 late in the day. Tuesday Wind southwest 10 to 20 knots backing to southeast 15 to 25. Wednesday Wind west 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday At 10:30 a.m. PDT today quasi-stationary ridge from high located on a line northeast-southwest over the Alaska panhandle. At 10:30 a.m. PDT today trough located over the Central Coast to the Washington Coast. By midnight PDT tonight trough located from the Central Coast to BC interior.",
+        "safetyLevel": "caution"
+      },
+      "tides": null,
+      "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
+    },
+    {
+      "name": "Desolation Sound",
+      "short": "Desolation",
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Strong wind warning in effect. Wind northwest 10 to 15 knots increasing to northwest 15 to 25 Sunday morning. Showers this afternoon tonight and Sunday morning. Showers Sunday evening. Fog patches forming after midnight and dissipating Sunday morning.",
+        "winds": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday. Strong wind warning in effect. Wind northwest 10 to 15 knots increasing to northwest 15 to 25 Sunday morning.",
+        "extended": "Issued&nbsp;04:00 AM PDT 11 April 2026 Monday Wind northwest 15 to 25 knots diminishing to variable 5 to 15 late in the day. Tuesday Wind southeast 20 to 30 knots becoming northwest 20 to 30 late in the day. Wednesday Wind southwest 10 knots increasing to northwest 15 late in the day.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 11 April 2026 Today Tonight and Sunday At 10:30 a.m. PDT today quasi-stationary ridge from high located on a line northeast-southwest over the Alaska panhandle. At 10:30 a.m. PDT today trough located over the Central Coast to the Washington Coast. By midnight PDT tonight trough located from the Central Coast to BC interior.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;11&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
+      "tides": null,
+      "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06800"
+    }
+  ]
+}
