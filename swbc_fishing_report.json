@@ -1,15 +1,16 @@
 {
-  "fetchedAt": "2026-04-13T10:32:00.688453+00:00",
+  "fetchedAt": "2026-04-13T11:28:02.262242+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Wind variable 10 knots increasing to northwest 10 to 15 near midnight except southwest 15 south of Tsawwassen. Wind becoming east 10 late Monday morning except south 15 south of Tsawwassen. Wind becoming southwest 10 to 20 early Monday evening.",
-        "winds": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Wind variable 10 knots increasing to northwest 10 to 15 near midnight except southwest 15 south of Tsawwassen. Wind becoming east 10 late Monday morning except south 15 south of Tsawwassen. Wind becoming southwest 10 to 20 early Monday evening.",
-        "extended": "Issued&nbsp;04:00 PM PDT 12 April 2026 Tuesday Wind southwest 10 to 20 knots backing to southeast 15 to 25 in the morning then diminishing to northwest 5 to 15 late in the day. Wednesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25. Thursday Wind northwest 20 knots.",
-        "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;9:30 PM PDT 12 April 2026 Tonight and Monday At 9:30 p.m. PDT tonight ridge from high located on a line northeast-southwest over central Haida Gwaii. By 4:00 p.m. PDT Monday weakening ridge from high located on a line north-south over the Central Coast. At 4:00 p.m. PDT Monday cold front located on a line east-west over northern Haida Gwaii. By midnight PDT Monday cold front located on a line northeast-southwest over southern Hecate Strait.",
+        "forecast": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Strong wind warning in effect. Wind northwest 10 to 15 knots except southwest 15 south of Tsawwassen. Wind diminishing to light early this afternoon except southwest 15 south of Tsawwassen. Wind becoming southwest 10 to 20 early this evening then backing to southerly 15 to 25 Tuesday morning. Wind becoming northwest 20 to 25 Tuesday evening. Showers Tuesday.",
+        "winds": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Strong wind warning in effect. Wind northwest 10 to 15 knots except southwest 15 south of Tsawwassen. Wind diminishing to light early this afternoon except southwest 15 south of Tsawwassen. Wind becoming southwest 10 to 20 early this evening then backing to southerly 15 to 25 Tuesday morning. Wind becoming northwest 20 to 25 Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 13 April 2026 Wednesday Wind northwest 10 to 15 knots diminishing to light in the morning then increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 20 knots diminishing to light. Friday Wind light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 13 April 2026 Today Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the northern Strait of Georgia.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
@@ -19,12 +20,12 @@
       "name": "Gulf Islands",
       "short": "Gulf Islands",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Strong wind warning in effect. Wind southwest 10 to 15 knots except southwest 20 over southern sections. Wind becoming southwest 10 to 20 Monday morning.",
-        "winds": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Strong wind warning in effect. Wind southwest 10 to 15 knots except southwest 20 over southern sections. Wind becoming southwest 10 to 20 Monday morning.",
-        "extended": "Issued&nbsp;04:00 PM PDT 12 April 2026 Tuesday Wind southwest 10 to 15 knots increasing to southwest 15 to 25 late in the day. Wednesday Wind southwest 15 to 25 knots becoming southwest 10 to 20. Thursday Wind light increasing to southwest 15 to 25 knots late in the day.",
+        "forecast": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Strong wind warning in effect. Wind southwest 10 to 20 knots except southwest 25 over southern sections today and early this evening. Wind becoming southerly 5 to 15 near midnight then becoming southwest 10 to 20 near noon Tuesday except southwest 25 over southern sections Tuesday late in the day. Showers overnight and Tuesday.",
+        "winds": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Strong wind warning in effect. Wind southwest 10 to 20 knots except southwest 25 over southern sections today and early this evening. Wind becoming southerly 5 to 15 near midnight then becoming southwest 10 to 20 near noon Tuesday except southwest 25 over southern sections Tuesday late in the day.",
+        "extended": "Issued&nbsp;04:00 AM PDT 13 April 2026 Wednesday Wind southwest 10 to 15 knots diminishing to light in the morning then increasing to southwest 10 to 20 in the afternoon. Thursday Wind light increasing to southwest 10 to 20 knots late in the day. Friday Wind southwest 10 to 20 knots diminishing to light.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;9:30 PM PDT 12 April 2026 Tonight and Monday At 9:30 p.m. PDT tonight ridge from high located on a line northeast-southwest over central Haida Gwaii. By 4:00 p.m. PDT Monday weakening ridge from high located on a line north-south over the Central Coast. At 4:00 p.m. PDT Monday cold front located on a line east-west over northern Haida Gwaii. By midnight PDT Monday cold front located on a line northeast-southwest over southern Hecate Strait.",
-        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;12&nbsp;April&nbsp;2026",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 13 April 2026 Today Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the northern Strait of Georgia.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
@@ -34,11 +35,12 @@
       "name": "Howe Sound",
       "short": "Howe Sound",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Wind southerly inflow 5 to 15 knots becoming light near midnight then becoming southerly inflow 10 to 15 near noon Monday. Wind diminishing to light early Monday evening. Showers Monday and Monday evening.",
-        "winds": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Wind southerly inflow 5 to 15 knots becoming light near midnight then becoming southerly inflow 10 to 15 near noon Monday. Wind diminishing to light early Monday evening.",
-        "extended": "Issued&nbsp;04:00 PM PDT 12 April 2026 Tuesday Wind southerly inflow 10 to 20 knots diminishing to light in the morning then increasing to southerly inflow 10 to 20 in the afternoon. Wednesday Wind light becoming southerly inflow 5 to 15 knots. Thursday Wind northerly outflow 5 to 15 knots becoming southerly inflow 10 to 15.",
-        "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;9:30 PM PDT 12 April 2026 Tonight and Monday At 9:30 p.m. PDT tonight ridge from high located on a line northeast-southwest over central Haida Gwaii. By 4:00 p.m. PDT Monday weakening ridge from high located on a line north-south over the Central Coast. At 4:00 p.m. PDT Monday cold front located on a line east-west over northern Haida Gwaii. By midnight PDT Monday cold front located on a line northeast-southwest over southern Hecate Strait.",
+        "forecast": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Strong wind warning in effect. Wind light increasing to southerly inflow 10 to 15 knots near noon and to southerly inflow 15 to 25 near noon Tuesday. Wind diminishing to light Tuesday evening. Showers changing to rain Tuesday morning.",
+        "winds": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Strong wind warning in effect. Wind light increasing to southerly inflow 10 to 15 knots near noon and to southerly inflow 15 to 25 near noon Tuesday. Wind diminishing to light Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 13 April 2026 Wednesday Wind light. Thursday Wind northerly outflow 5 to 15 knots becoming light. Friday Wind light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 13 April 2026 Today Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the northern Strait of Georgia.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
@@ -48,13 +50,13 @@
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Strong wind warning in effect. Wind northwest 10 to 15 knots becoming variable 10 Monday afternoon then becoming southwest 5 to 10 Monday evening except southwest 20 near Qualicum Beach.",
-        "winds": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Strong wind warning in effect. Wind northwest 10 to 15 knots becoming variable 10 Monday afternoon then becoming southwest 5 to 10 Monday evening except southwest 20 near Qualicum Beach.",
-        "extended": "Issued&nbsp;04:00 PM PDT 12 April 2026 Tuesday Wind southwest 10 to 20 knots backing to southeast 15 to 25 in the morning then diminishing to northwest 5 to 15 late in the day. Wednesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25. Thursday Wind northwest 20 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;9:30 PM PDT 12 April 2026 Tonight and Monday At 9:30 p.m. PDT tonight ridge from high located on a line northeast-southwest over central Haida Gwaii. By 4:00 p.m. PDT Monday weakening ridge from high located on a line north-south over the Central Coast. At 4:00 p.m. PDT Monday cold front located on a line east-west over northern Haida Gwaii. By midnight PDT Monday cold front located on a line northeast-southwest over southern Hecate Strait.",
-        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;12&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
+        "forecast": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Gale warning in effect. Wind northwest 10 to 15 knots diminishing to light early this afternoon then becoming southwest 5 to 10 early this evening except southwest 20 to 25 near Qualicum Beach. Wind becoming southeast 10 to 20 late overnight then increasing to southeast 20 to 30 Tuesday morning. Wind becoming northwest 25 to 35 Tuesday evening. Scattered showers ending this morning. Showers tonight and Tuesday. Risk of thunderstorms Tuesday afternoon.",
+        "winds": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Gale warning in effect. Wind northwest 10 to 15 knots diminishing to light early this afternoon then becoming southwest 5 to 10 early this evening except southwest 20 to 25 near Qualicum Beach. Wind becoming southeast 10 to 20 late overnight then increasing to southeast 20 to 30 Tuesday morning. Wind becoming northwest 25 to 35 Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 13 April 2026 Wednesday Wind northwest 10 to 15 knots diminishing to light in the morning then increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 20 knots diminishing to light. Friday Wind light.",
+        "warnings": "Gale warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 13 April 2026 Today Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the northern Strait of Georgia.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
@@ -63,13 +65,13 @@
       "name": "Pender Harbour",
       "short": "Pender Hbr",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Strong wind warning in effect. Wind northwest 10 to 15 knots becoming variable 10 Monday afternoon then becoming southwest 5 to 10 Monday evening except southwest 20 near Qualicum Beach.",
-        "winds": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Strong wind warning in effect. Wind northwest 10 to 15 knots becoming variable 10 Monday afternoon then becoming southwest 5 to 10 Monday evening except southwest 20 near Qualicum Beach.",
-        "extended": "Issued&nbsp;04:00 PM PDT 12 April 2026 Tuesday Wind southwest 10 to 20 knots backing to southeast 15 to 25 in the morning then diminishing to northwest 5 to 15 late in the day. Wednesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25. Thursday Wind northwest 20 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;9:30 PM PDT 12 April 2026 Tonight and Monday At 9:30 p.m. PDT tonight ridge from high located on a line northeast-southwest over central Haida Gwaii. By 4:00 p.m. PDT Monday weakening ridge from high located on a line north-south over the Central Coast. At 4:00 p.m. PDT Monday cold front located on a line east-west over northern Haida Gwaii. By midnight PDT Monday cold front located on a line northeast-southwest over southern Hecate Strait.",
-        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;12&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
+        "forecast": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Gale warning in effect. Wind northwest 10 to 15 knots diminishing to light early this afternoon then becoming southwest 5 to 10 early this evening except southwest 20 to 25 near Qualicum Beach. Wind becoming southeast 10 to 20 late overnight then increasing to southeast 20 to 30 Tuesday morning. Wind becoming northwest 25 to 35 Tuesday evening. Scattered showers ending this morning. Showers tonight and Tuesday. Risk of thunderstorms Tuesday afternoon.",
+        "winds": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Gale warning in effect. Wind northwest 10 to 15 knots diminishing to light early this afternoon then becoming southwest 5 to 10 early this evening except southwest 20 to 25 near Qualicum Beach. Wind becoming southeast 10 to 20 late overnight then increasing to southeast 20 to 30 Tuesday morning. Wind becoming northwest 25 to 35 Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 13 April 2026 Wednesday Wind northwest 10 to 15 knots diminishing to light in the morning then increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 20 knots diminishing to light. Friday Wind light.",
+        "warnings": "Gale warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 13 April 2026 Today Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the northern Strait of Georgia.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
@@ -78,11 +80,12 @@
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Wind variable 10 knots increasing to northwest 10 to 15 near midnight except southwest 15 south of Tsawwassen. Wind becoming east 10 late Monday morning except south 15 south of Tsawwassen. Wind becoming southwest 10 to 20 early Monday evening.",
-        "winds": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Wind variable 10 knots increasing to northwest 10 to 15 near midnight except southwest 15 south of Tsawwassen. Wind becoming east 10 late Monday morning except south 15 south of Tsawwassen. Wind becoming southwest 10 to 20 early Monday evening.",
-        "extended": "Issued&nbsp;04:00 PM PDT 12 April 2026 Tuesday Wind southwest 10 to 20 knots backing to southeast 15 to 25 in the morning then diminishing to northwest 5 to 15 late in the day. Wednesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25. Thursday Wind northwest 20 knots.",
-        "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;9:30 PM PDT 12 April 2026 Tonight and Monday At 9:30 p.m. PDT tonight ridge from high located on a line northeast-southwest over central Haida Gwaii. By 4:00 p.m. PDT Monday weakening ridge from high located on a line north-south over the Central Coast. At 4:00 p.m. PDT Monday cold front located on a line east-west over northern Haida Gwaii. By midnight PDT Monday cold front located on a line northeast-southwest over southern Hecate Strait.",
+        "forecast": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Strong wind warning in effect. Wind northwest 10 to 15 knots except southwest 15 south of Tsawwassen. Wind diminishing to light early this afternoon except southwest 15 south of Tsawwassen. Wind becoming southwest 10 to 20 early this evening then backing to southerly 15 to 25 Tuesday morning. Wind becoming northwest 20 to 25 Tuesday evening. Showers Tuesday.",
+        "winds": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Strong wind warning in effect. Wind northwest 10 to 15 knots except southwest 15 south of Tsawwassen. Wind diminishing to light early this afternoon except southwest 15 south of Tsawwassen. Wind becoming southwest 10 to 20 early this evening then backing to southerly 15 to 25 Tuesday morning. Wind becoming northwest 20 to 25 Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 13 April 2026 Wednesday Wind northwest 10 to 15 knots diminishing to light in the morning then increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 20 knots diminishing to light. Friday Wind light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 13 April 2026 Today Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the northern Strait of Georgia.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
@@ -92,13 +95,13 @@
       "name": "Desolation Sound",
       "short": "Desolation",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Strong wind warning in effect. Wind northwest 20 to 30 knots diminishing to northwest 10 to 20 early Monday morning. Showers ending overnight. Showers Monday evening.",
-        "winds": "Issued&nbsp;09:30 PM PDT 12 April 2026 Tonight and Monday. Strong wind warning in effect. Wind northwest 20 to 30 knots diminishing to northwest 10 to 20 early Monday morning.",
-        "extended": "Issued&nbsp;04:00 PM PDT 12 April 2026 Tuesday Wind southeast 15 to 25 knots becoming northwest 15 to 25 late in the day. Wednesday Wind northwest 5 to 15 knots becoming northwest 10 to 20. Thursday Wind northwest 15 to 25 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;9:30 PM PDT 12 April 2026 Tonight and Monday At 9:30 p.m. PDT tonight ridge from high located on a line northeast-southwest over central Haida Gwaii. By 4:00 p.m. PDT Monday weakening ridge from high located on a line north-south over the Central Coast. At 4:00 p.m. PDT Monday cold front located on a line east-west over northern Haida Gwaii. By midnight PDT Monday cold front located on a line northeast-southwest over southern Hecate Strait.",
-        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;12&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
+        "forecast": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Gale warning in effect. Wind northwest 10 to 20 knots becoming southeast 5 to 15 near midnight then increasing to southeast 15 to 25 Tuesday morning. Wind increasing to northwest 25 to 35 Tuesday afternoon then diminishing to northwest 10 to 20 Tuesday evening. Showers beginning this evening changing to rain Tuesday morning. Risk of thunderstorms Tuesday afternoon.",
+        "winds": "Issued&nbsp;04:00 AM PDT 13 April 2026 Today Tonight and Tuesday. Gale warning in effect. Wind northwest 10 to 20 knots becoming southeast 5 to 15 near midnight then increasing to southeast 15 to 25 Tuesday morning. Wind increasing to northwest 25 to 35 Tuesday afternoon then diminishing to northwest 10 to 20 Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 13 April 2026 Wednesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 15 knots. Friday Wind light.",
+        "warnings": "Gale warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 13 April 2026 Today Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the northern Strait of Georgia.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06800"
