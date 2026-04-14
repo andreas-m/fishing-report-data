@@ -1,52 +1,108 @@
 {
-  "fetchedAt": "2026-04-14T09:30:48.722097+00:00",
+  "fetchedAt": "2026-04-14T10:27:26.127007+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind southwest 10 to 20 knots backing to southerly 15 to 25 early Tuesday morning then becoming northwest 25 Tuesday evening. Showers Tuesday.",
+        "winds": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind southwest 10 to 20 knots backing to southerly 15 to 25 early Tuesday morning then becoming northwest 25 Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 13 April 2026 Wednesday Wind northwest 10 to 15 knots increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 20 knots diminishing to light. Friday Wind light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 13 April 2026 Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the southern Strait of Georgia.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Gulf Islands",
       "short": "Gulf Islands",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind southwest 10 to 20 knots becoming southwest 15 to 25 early Tuesday evening except southwest 30 over southern sections. Showers overnight and Tuesday.",
+        "winds": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind southwest 10 to 20 knots becoming southwest 15 to 25 early Tuesday evening except southwest 30 over southern sections.",
+        "extended": "Issued&nbsp;04:00 PM PDT 13 April 2026 Wednesday Wind southwest 10 to 15 knots diminishing to light in the morning then increasing to southwest 15 to 25 in the afternoon. Thursday Wind light increasing to southwest 10 to 20 knots late in the day. Friday Wind southwest 10 to 20 knots diminishing to light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 13 April 2026 Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the southern Strait of Georgia.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06100"
     },
     {
       "name": "Howe Sound",
       "short": "Howe Sound",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind southerly inflow 10 to 15 knots increasing to southerly inflow 15 to 25 near noon Tuesday. Showers changing to rain Tuesday morning.",
+        "winds": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind southerly inflow 10 to 15 knots increasing to southerly inflow 15 to 25 near noon Tuesday.",
+        "extended": "Issued&nbsp;04:00 PM PDT 13 April 2026 Wednesday Wind light becoming southerly inflow 10 to 15 knots in the morning then diminishing to light late in the day. Thursday Wind northerly outflow 5 to 15 knots becoming light. Friday Wind light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 13 April 2026 Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the southern Strait of Georgia.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06400"
     },
     {
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind light except southwest 20 to 25 knots near Qualicum Beach. Wind becoming southeast 10 to 20 late overnight then increasing to southeast 20 to 30 early Tuesday morning. Wind becoming northwest 20 to 30 early Tuesday evening then diminishing to northwest 15 to 20 late Tuesday evening. Showers. Risk of thunderstorms Tuesday afternoon.",
+        "winds": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind light except southwest 20 to 25 knots near Qualicum Beach. Wind becoming southeast 10 to 20 late overnight then increasing to southeast 20 to 30 early Tuesday morning. Wind becoming northwest 20 to 30 early Tuesday evening then diminishing to northwest 15 to 20 late Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 13 April 2026 Wednesday Wind northwest 10 to 15 knots increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 20 knots diminishing to light. Friday Wind light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 13 April 2026 Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the southern Strait of Georgia.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Pender Harbour",
       "short": "Pender Hbr",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind light except southwest 20 to 25 knots near Qualicum Beach. Wind becoming southeast 10 to 20 late overnight then increasing to southeast 20 to 30 early Tuesday morning. Wind becoming northwest 20 to 30 early Tuesday evening then diminishing to northwest 15 to 20 late Tuesday evening. Showers. Risk of thunderstorms Tuesday afternoon.",
+        "winds": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind light except southwest 20 to 25 knots near Qualicum Beach. Wind becoming southeast 10 to 20 late overnight then increasing to southeast 20 to 30 early Tuesday morning. Wind becoming northwest 20 to 30 early Tuesday evening then diminishing to northwest 15 to 20 late Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 13 April 2026 Wednesday Wind northwest 10 to 15 knots increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 20 knots diminishing to light. Friday Wind light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 13 April 2026 Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the southern Strait of Georgia.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind southwest 10 to 20 knots backing to southerly 15 to 25 early Tuesday morning then becoming northwest 25 Tuesday evening. Showers Tuesday.",
+        "winds": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Strong wind warning in effect. Wind southwest 10 to 20 knots backing to southerly 15 to 25 early Tuesday morning then becoming northwest 25 Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 13 April 2026 Wednesday Wind northwest 10 to 15 knots increasing to northwest 15 to 25 in the afternoon. Thursday Wind northwest 10 to 20 knots diminishing to light. Friday Wind light.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 13 April 2026 Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the southern Strait of Georgia.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Desolation Sound",
       "short": "Desolation",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Gale warning in effect. Wind northwest 10 to 20 knots becoming southeast 5 to 15 near midnight then increasing to southeast 15 to 25 early Tuesday morning. Wind increasing to northwest 25 to 35 early Tuesday afternoon then diminishing to northwest 10 to 20 early Tuesday evening. Showers changing to rain Tuesday morning. Risk of thunderstorms Tuesday afternoon.",
+        "winds": "Issued&nbsp;09:30 PM PDT 13 April 2026 Tonight and Tuesday. Gale warning in effect. Wind northwest 10 to 20 knots becoming southeast 5 to 15 near midnight then increasing to southeast 15 to 25 early Tuesday morning. Wind increasing to northwest 25 to 35 early Tuesday afternoon then diminishing to northwest 10 to 20 early Tuesday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 13 April 2026 Wednesday Wind light increasing to northwest 15 to 25 knots in the afternoon. Thursday Wind northwest 10 to 15 knots. Friday Wind light.",
+        "warnings": "Gale warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 13 April 2026 Tonight and Tuesday At 9:30 p.m. PDT tonight cold front located on a line northeast-southwest over Queen Charlotte Sound. By midnight PDT tonight cold front located on a line northeast-southwest over the Central Coast. At 10:30 a.m. PDT Tuesday cold front located on a line northeast-southwest over northwestern Vancouver Island. By 4:00 p.m. PDT Tuesday cold front located on a line northeast-southwest over the southern Strait of Georgia.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;13&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06800"
     }
