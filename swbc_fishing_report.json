@@ -1,52 +1,108 @@
 {
-  "fetchedAt": "2026-04-14T21:15:58.206022+00:00",
+  "fetchedAt": "2026-04-14T22:14:55.691590+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southerly 15 to 25 knots increasing to northwest 25 to 30 early this evening then diminishing to northwest 15 to 20 near midnight. Wind diminishing to northwest 10 late overnight then increasing to northwest 15 to 20 Wednesday afternoon. Wind increasing to northwest 25 to 30 Wednesday evening. Showers ending this evening. Scattered showers Wednesday afternoon with a risk of waterspouts early Wednesday afternoon and a risk of thunderstorms late Wednesday afternoon.",
+        "winds": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southerly 15 to 25 knots increasing to northwest 25 to 30 early this evening then diminishing to northwest 15 to 20 near midnight. Wind diminishing to northwest 10 late overnight then increasing to northwest 15 to 20 Wednesday afternoon. Wind increasing to northwest 25 to 30 Wednesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 14 April 2026 Thursday Wind northwest 15 to 25 knots diminishing to northwest 5 to 15 in the morning. Friday Wind northwest 5 to 15 knots becoming light. Saturday Wind light becoming southeast 5 to 15 knots.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday At 10:30 a.m. PDT today cold front located on a line northeast-southwest over northern Vancouver Island. By 4:00 p.m. PDT today cold front located on a line northeast-southwest over the southern Strait of Georgia. At 4:00 p.m. PDT today trough located over Haida Gwaii. By 4:00 p.m. PDT Wednesday departing trough located over southern Vancouver Island. At 4:00 a.m. PDT Wednesday approaching ridge located over Pacific Ocean.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;14&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Gulf Islands",
       "short": "Gulf Islands",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southerly 10 to 20 knots veering to southwest 15 to 25 early this evening except southwest 30 over southern sections. Wind becoming southwest 5 to 15 after midnight then becoming southwest 10 to 15 Wednesday afternoon except southwest 20 over southern sections. Periods of rain ending this evening. Scattered showers Wednesday with a risk of thunderstorms.",
+        "winds": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southerly 10 to 20 knots veering to southwest 15 to 25 early this evening except southwest 30 over southern sections. Wind becoming southwest 5 to 15 after midnight then becoming southwest 10 to 15 Wednesday afternoon except southwest 20 over southern sections.",
+        "extended": "Issued&nbsp;04:00 AM PDT 14 April 2026 Thursday Wind southwest 5 to 15 knots becoming light in the morning then increasing to southwest 10 to 20 late in the day. Friday Wind southwest 10 to 20 knots diminishing to light. Saturday Wind light increasing to southerly 10 to 20 knots late in the day.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday At 10:30 a.m. PDT today cold front located on a line northeast-southwest over northern Vancouver Island. By 4:00 p.m. PDT today cold front located on a line northeast-southwest over the southern Strait of Georgia. At 4:00 p.m. PDT today trough located over Haida Gwaii. By 4:00 p.m. PDT Wednesday departing trough located over southern Vancouver Island. At 4:00 a.m. PDT Wednesday approaching ridge located over Pacific Ocean.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;14&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06100"
     },
     {
       "name": "Howe Sound",
       "short": "Howe Sound",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southerly inflow 10 to 20 knots becoming southerly inflow 15 to 25 near noon then becoming southerly inflow 15 early this evening except northwesterly inflow 25 near the mouth of Howe Sound. Wind becoming northerly outflow 10 to 15 near midnight then diminishing to light Wednesday morning. Wind becoming southerly inflow 10 to 15 Wednesday afternoon then diminishing to light Wednesday evening. Rain with a risk of thunderstorms early this evening changing to scattered showers this evening and ",
+        "winds": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southerly inflow 10 to 20 knots becoming southerly inflow 15 to 25 near noon then becoming southerly inflow 15 early this evening except northwesterly inflow 25 near the mouth of Howe Sound. Wind becoming northerly outflow 10 to 15 near midnight then diminishing to light Wednesday morning. Wind becoming southerly inflow 10 to 15 Wednesday afternoon then diminishing to light Wednesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 14 April 2026 Thursday Wind northerly outflow 5 to 15 knots becoming light in the morning then increasing to southerly inflow 10 to 20 in the afternoon. Friday Wind light. Saturday Wind northerly outflow 10 to 20 knots.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday At 10:30 a.m. PDT today cold front located on a line northeast-southwest over northern Vancouver Island. By 4:00 p.m. PDT today cold front located on a line northeast-southwest over the southern Strait of Georgia. At 4:00 p.m. PDT today trough located over Haida Gwaii. By 4:00 p.m. PDT Wednesday departing trough located over southern Vancouver Island. At 4:00 a.m. PDT Wednesday approaching ridge located over Pacific Ocean.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;14&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06400"
     },
     {
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southeast 15 to 25 knots except southeast 25 to 30 over northern sections. Wind becoming southeast 20 to 30 this afternoon then becoming northwest 20 to 30 early this evening. Wind diminishing to northwest 15 to 20 late this evening and to variable 10 after midnight. Wind increasing to northwest 15 to 25 Wednesday evening. Showers ending this evening with a risk of thunderstorms. Scattered showers Wednesday with a risk of waterspouts near noon Wednesday and a risk of thunderstorms Wednesday ",
+        "winds": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southeast 15 to 25 knots except southeast 25 to 30 over northern sections. Wind becoming southeast 20 to 30 this afternoon then becoming northwest 20 to 30 early this evening. Wind diminishing to northwest 15 to 20 late this evening and to variable 10 after midnight. Wind increasing to northwest 15 to 25 Wednesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 14 April 2026 Thursday Wind northwest 15 to 25 knots diminishing to northwest 5 to 15 in the morning. Friday Wind northwest 5 to 15 knots becoming light. Saturday Wind light becoming southeast 5 to 15 knots.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday At 10:30 a.m. PDT today cold front located on a line northeast-southwest over northern Vancouver Island. By 4:00 p.m. PDT today cold front located on a line northeast-southwest over the southern Strait of Georgia. At 4:00 p.m. PDT today trough located over Haida Gwaii. By 4:00 p.m. PDT Wednesday departing trough located over southern Vancouver Island. At 4:00 a.m. PDT Wednesday approaching ridge located over Pacific Ocean.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;14&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Pender Harbour",
       "short": "Pender Hbr",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southeast 15 to 25 knots except southeast 25 to 30 over northern sections. Wind becoming southeast 20 to 30 this afternoon then becoming northwest 20 to 30 early this evening. Wind diminishing to northwest 15 to 20 late this evening and to variable 10 after midnight. Wind increasing to northwest 15 to 25 Wednesday evening. Showers ending this evening with a risk of thunderstorms. Scattered showers Wednesday with a risk of waterspouts near noon Wednesday and a risk of thunderstorms Wednesday ",
+        "winds": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southeast 15 to 25 knots except southeast 25 to 30 over northern sections. Wind becoming southeast 20 to 30 this afternoon then becoming northwest 20 to 30 early this evening. Wind diminishing to northwest 15 to 20 late this evening and to variable 10 after midnight. Wind increasing to northwest 15 to 25 Wednesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 14 April 2026 Thursday Wind northwest 15 to 25 knots diminishing to northwest 5 to 15 in the morning. Friday Wind northwest 5 to 15 knots becoming light. Saturday Wind light becoming southeast 5 to 15 knots.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday At 10:30 a.m. PDT today cold front located on a line northeast-southwest over northern Vancouver Island. By 4:00 p.m. PDT today cold front located on a line northeast-southwest over the southern Strait of Georgia. At 4:00 p.m. PDT today trough located over Haida Gwaii. By 4:00 p.m. PDT Wednesday departing trough located over southern Vancouver Island. At 4:00 a.m. PDT Wednesday approaching ridge located over Pacific Ocean.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;14&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southerly 15 to 25 knots increasing to northwest 25 to 30 early this evening then diminishing to northwest 15 to 20 near midnight. Wind diminishing to northwest 10 late overnight then increasing to northwest 15 to 20 Wednesday afternoon. Wind increasing to northwest 25 to 30 Wednesday evening. Showers ending this evening. Scattered showers Wednesday afternoon with a risk of waterspouts early Wednesday afternoon and a risk of thunderstorms late Wednesday afternoon.",
+        "winds": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Strong wind warning in effect. Wind southerly 15 to 25 knots increasing to northwest 25 to 30 early this evening then diminishing to northwest 15 to 20 near midnight. Wind diminishing to northwest 10 late overnight then increasing to northwest 15 to 20 Wednesday afternoon. Wind increasing to northwest 25 to 30 Wednesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 14 April 2026 Thursday Wind northwest 15 to 25 knots diminishing to northwest 5 to 15 in the morning. Friday Wind northwest 5 to 15 knots becoming light. Saturday Wind light becoming southeast 5 to 15 knots.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday At 10:30 a.m. PDT today cold front located on a line northeast-southwest over northern Vancouver Island. By 4:00 p.m. PDT today cold front located on a line northeast-southwest over the southern Strait of Georgia. At 4:00 p.m. PDT today trough located over Haida Gwaii. By 4:00 p.m. PDT Wednesday departing trough located over southern Vancouver Island. At 4:00 a.m. PDT Wednesday approaching ridge located over Pacific Ocean.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;14&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Desolation Sound",
       "short": "Desolation",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Gale warning in effect. Wind southeast 15 to 25 knots increasing to northwest 25 to 35 early this afternoon then diminishing to northwest 10 to 20 early this evening. Wind becoming southeast 5 to 15 after midnight then becoming northwest 15 Wednesday morning. Wind increasing to northwest 25 to 35 Wednesday afternoon then diminishing to northwest 10 to 20 Wednesday evening. Rain ending this evening. Risk of thunderstorms late this afternoon. Scattered showers Wednesday with a risk of thunderstorms.",
+        "winds": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday. Gale warning in effect. Wind southeast 15 to 25 knots increasing to northwest 25 to 35 early this afternoon then diminishing to northwest 10 to 20 early this evening. Wind becoming southeast 5 to 15 after midnight then becoming northwest 15 Wednesday morning. Wind increasing to northwest 25 to 35 Wednesday afternoon then diminishing to northwest 10 to 20 Wednesday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 14 April 2026 Thursday Wind northwest 10 to 20 knots. Friday Wind light. Saturday Wind southeast 10 to 20 knots increasing to southeast 20 to 30.",
+        "warnings": "Gale warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;10:30 AM PDT 14 April 2026 Today Tonight and Wednesday At 10:30 a.m. PDT today cold front located on a line northeast-southwest over northern Vancouver Island. By 4:00 p.m. PDT today cold front located on a line northeast-southwest over the southern Strait of Georgia. At 4:00 p.m. PDT today trough located over Haida Gwaii. By 4:00 p.m. PDT Wednesday departing trough located over southern Vancouver Island. At 4:00 a.m. PDT Wednesday approaching ridge located over Pacific Ocean.",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;14&nbsp;April&nbsp;2026",
+        "safetyLevel": "rough"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06800"
     }
