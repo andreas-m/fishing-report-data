@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-04-15T17:23:03.836914+00:00",
+  "fetchedAt": "2026-04-15T18:22:48.047333+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind northwest 15 to 25 knots diminishing to variable 10 early this morning then increasing to northwest 15 to 20 late this afternoon. Wind increasing to northwest 25 to 30 this evening then diminishing to variable 10 Thursday morning. Wind becoming southeast 10 Thursday evening. Scattered showers this afternoon with a risk of waterspouts early this afternoon and a risk of thunderstorms late this afternoon.",
-        "winds": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind northwest 15 to 25 knots diminishing to variable 10 early this morning then increasing to northwest 15 to 20 late this afternoon. Wind increasing to northwest 25 to 30 this evening then diminishing to variable 10 Thursday morning. Wind becoming southeast 10 Thursday evening.",
+        "forecast": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 to 20 knots late this afternoon and to northwest 25 to 30 this evening except northwest 15 to 20 near the mainland coast. Wind diminishing to northwest 20 near midnight except northeast 10 near the mainland coast. Wind diminishing to light early Thursday morning then becoming southeast 10 Thursday evening. Risk of thunderstorms and waterspouts today.",
+        "winds": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 to 20 knots late this afternoon and to northwest 25 to 30 this evening except northwest 15 to 20 near the mainland coast. Wind diminishing to northwest 20 near midnight except northeast 10 near the mainland coast. Wind diminishing to light early Thursday morning then becoming southeast 10 Thursday evening.",
         "extended": "Issued&nbsp;04:00 AM PDT 15 April 2026 Friday Wind northwest 5 to 15 knots becoming light in the morning then becoming southeast 10 to 15 in the afternoon. Saturday Wind light becoming southeast 5 to 15 knots. Sunday Wind light.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
         "synopsis": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday At 10:30 a.m. PDT today trough located over northern Vancouver Island. By 4:00 p.m. PDT today departing trough located over southern Vancouver Island. At 10:30 a.m. PDT today building ridge located over Pacific Ocean. By 4:00 p.m. PDT Thursday ridge located over the offshore waters.",
-        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
         "safetyLevel": "rough"
       },
       "tides": null,
@@ -20,12 +20,12 @@
       "name": "Gulf Islands",
       "short": "Gulf Islands",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind southwest 5 to 15 knots except west 15 over southern sections overnight and Thursday morning. Wind becoming variable 10 Thursday morning then increasing to southwest 15 to 25 Thursday evening. Scattered showers today and this evening with a risk of thunderstorms.",
-        "winds": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind southwest 5 to 15 knots except west 15 over southern sections overnight and Thursday morning. Wind becoming variable 10 Thursday morning then increasing to southwest 15 to 25 Thursday evening.",
+        "forecast": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind southwest 5 to 15 knots except west 15 over southern sections tonight and Thursday morning. Wind becoming light Thursday morning then increasing to southerly 5 to 15 Thursday afternoon. Wind increasing to southwest 15 to 25 Thursday evening. Scattered showers ending this evening with a risk of thunderstorms.",
+        "winds": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind southwest 5 to 15 knots except west 15 over southern sections tonight and Thursday morning. Wind becoming light Thursday morning then increasing to southerly 5 to 15 Thursday afternoon. Wind increasing to southwest 15 to 25 Thursday evening.",
         "extended": "Issued&nbsp;04:00 AM PDT 15 April 2026 Friday Wind southwest 10 to 20 knots diminishing to light in the morning. Saturday Wind northerly 10 to 15 knots. Sunday Wind light.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
         "synopsis": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday At 10:30 a.m. PDT today trough located over northern Vancouver Island. By 4:00 p.m. PDT today departing trough located over southern Vancouver Island. At 10:30 a.m. PDT today building ridge located over Pacific Ocean. By 4:00 p.m. PDT Thursday ridge located over the offshore waters.",
-        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
         "safetyLevel": "rough"
       },
       "tides": null,
@@ -35,12 +35,12 @@
       "name": "Howe Sound",
       "short": "Howe Sound",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Wind light becoming northerly outflow 10 knots early this morning then becoming light late this morning. Wind becoming southerly inflow 10 to 15 early this afternoon then diminishing to light this evening. Wind becoming northerly outflow 10 to 15 near midnight then diminishing to light Thursday morning. Wind becoming southerly inflow 10 Thursday afternoon. Showers this afternoon.",
-        "winds": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Wind light becoming northerly outflow 10 knots early this morning then becoming light late this morning. Wind becoming southerly inflow 10 to 15 early this afternoon then diminishing to light this evening. Wind becoming northerly outflow 10 to 15 near midnight then diminishing to light Thursday morning. Wind becoming southerly inflow 10 Thursday afternoon.",
+        "forecast": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Wind light becoming southerly inflow 10 to 15 knots early this afternoon then diminishing to light this evening. Wind becoming northerly outflow 10 to 15 near midnight then diminishing to light Thursday morning. Wind becoming southerly inflow 10 Thursday afternoon. Showers this afternoon.",
+        "winds": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Wind light becoming southerly inflow 10 to 15 knots early this afternoon then diminishing to light this evening. Wind becoming northerly outflow 10 to 15 near midnight then diminishing to light Thursday morning. Wind becoming southerly inflow 10 Thursday afternoon.",
         "extended": "Issued&nbsp;04:00 AM PDT 15 April 2026 Friday Wind northerly outflow 10 knots becoming southerly inflow 10 in the afternoon. Saturday Wind northerly outflow 10 to 20 knots. Sunday Wind light.",
         "warnings": "Forecast",
         "synopsis": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday At 10:30 a.m. PDT today trough located over northern Vancouver Island. By 4:00 p.m. PDT today departing trough located over southern Vancouver Island. At 10:30 a.m. PDT today building ridge located over Pacific Ocean. By 4:00 p.m. PDT Thursday ridge located over the offshore waters.",
-        "safetyLevel": "good"
+        "safetyLevel": "caution"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06400"
@@ -49,12 +49,12 @@
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind northwest 5 to 15 knots becoming variable 10 early this morning then increasing to northwest 15 to 25 early this evening. Wind becoming northwest 10 to 20 overnight then becoming northwest 10 Thursday morning. Wind becoming light Thursday evening. Scattered showers today with a risk of waterspouts near noon and a risk of thunderstorms this afternoon.",
-        "winds": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind northwest 5 to 15 knots becoming variable 10 early this morning then increasing to northwest 15 to 25 early this evening. Wind becoming northwest 10 to 20 overnight then becoming northwest 10 Thursday morning. Wind becoming light Thursday evening.",
+        "forecast": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 to 25 knots early this evening then becoming northwest 10 to 20 late overnight. Wind becoming northwest 10 Thursday morning then becoming light Thursday evening. Risk of thunderstorms and waterspouts today.",
+        "winds": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 to 25 knots early this evening then becoming northwest 10 to 20 late overnight. Wind becoming northwest 10 Thursday morning then becoming light Thursday evening.",
         "extended": "Issued&nbsp;04:00 AM PDT 15 April 2026 Friday Wind northwest 5 to 15 knots becoming light in the morning then becoming southeast 10 to 15 in the afternoon. Saturday Wind light becoming southeast 5 to 15 knots. Sunday Wind light.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
         "synopsis": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday At 10:30 a.m. PDT today trough located over northern Vancouver Island. By 4:00 p.m. PDT today departing trough located over southern Vancouver Island. At 10:30 a.m. PDT today building ridge located over Pacific Ocean. By 4:00 p.m. PDT Thursday ridge located over the offshore waters.",
-        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
         "safetyLevel": "rough"
       },
       "tides": null,
@@ -64,12 +64,12 @@
       "name": "Pender Harbour",
       "short": "Pender Hbr",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind northwest 5 to 15 knots becoming variable 10 early this morning then increasing to northwest 15 to 25 early this evening. Wind becoming northwest 10 to 20 overnight then becoming northwest 10 Thursday morning. Wind becoming light Thursday evening. Scattered showers today with a risk of waterspouts near noon and a risk of thunderstorms this afternoon.",
-        "winds": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind northwest 5 to 15 knots becoming variable 10 early this morning then increasing to northwest 15 to 25 early this evening. Wind becoming northwest 10 to 20 overnight then becoming northwest 10 Thursday morning. Wind becoming light Thursday evening.",
+        "forecast": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 to 25 knots early this evening then becoming northwest 10 to 20 late overnight. Wind becoming northwest 10 Thursday morning then becoming light Thursday evening. Risk of thunderstorms and waterspouts today.",
+        "winds": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 to 25 knots early this evening then becoming northwest 10 to 20 late overnight. Wind becoming northwest 10 Thursday morning then becoming light Thursday evening.",
         "extended": "Issued&nbsp;04:00 AM PDT 15 April 2026 Friday Wind northwest 5 to 15 knots becoming light in the morning then becoming southeast 10 to 15 in the afternoon. Saturday Wind light becoming southeast 5 to 15 knots. Sunday Wind light.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
         "synopsis": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday At 10:30 a.m. PDT today trough located over northern Vancouver Island. By 4:00 p.m. PDT today departing trough located over southern Vancouver Island. At 10:30 a.m. PDT today building ridge located over Pacific Ocean. By 4:00 p.m. PDT Thursday ridge located over the offshore waters.",
-        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
         "safetyLevel": "rough"
       },
       "tides": null,
@@ -79,12 +79,12 @@
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind northwest 15 to 25 knots diminishing to variable 10 early this morning then increasing to northwest 15 to 20 late this afternoon. Wind increasing to northwest 25 to 30 this evening then diminishing to variable 10 Thursday morning. Wind becoming southeast 10 Thursday evening. Scattered showers this afternoon with a risk of waterspouts early this afternoon and a risk of thunderstorms late this afternoon.",
-        "winds": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind northwest 15 to 25 knots diminishing to variable 10 early this morning then increasing to northwest 15 to 20 late this afternoon. Wind increasing to northwest 25 to 30 this evening then diminishing to variable 10 Thursday morning. Wind becoming southeast 10 Thursday evening.",
+        "forecast": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 to 20 knots late this afternoon and to northwest 25 to 30 this evening except northwest 15 to 20 near the mainland coast. Wind diminishing to northwest 20 near midnight except northeast 10 near the mainland coast. Wind diminishing to light early Thursday morning then becoming southeast 10 Thursday evening. Risk of thunderstorms and waterspouts today.",
+        "winds": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 to 20 knots late this afternoon and to northwest 25 to 30 this evening except northwest 15 to 20 near the mainland coast. Wind diminishing to northwest 20 near midnight except northeast 10 near the mainland coast. Wind diminishing to light early Thursday morning then becoming southeast 10 Thursday evening.",
         "extended": "Issued&nbsp;04:00 AM PDT 15 April 2026 Friday Wind northwest 5 to 15 knots becoming light in the morning then becoming southeast 10 to 15 in the afternoon. Saturday Wind light becoming southeast 5 to 15 knots. Sunday Wind light.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
         "synopsis": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday At 10:30 a.m. PDT today trough located over northern Vancouver Island. By 4:00 p.m. PDT today departing trough located over southern Vancouver Island. At 10:30 a.m. PDT today building ridge located over Pacific Ocean. By 4:00 p.m. PDT Thursday ridge located over the offshore waters.",
-        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
         "safetyLevel": "rough"
       },
       "tides": null,
@@ -94,12 +94,12 @@
       "name": "Desolation Sound",
       "short": "Desolation",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind southeast 5 to 15 knots becoming northwest 15 this morning then increasing to northwest 20 to 30 early this afternoon. Wind becoming northwest 20 near midnight then diminishing to northwest 10 to 15 late overnight. Wind increasing to northwest 15 to 25 near noon Thursday. Scattered showers this morning with a risk of thunderstorms.",
-        "winds": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind southeast 5 to 15 knots becoming northwest 15 this morning then increasing to northwest 20 to 30 early this afternoon. Wind becoming northwest 20 near midnight then diminishing to northwest 10 to 15 late overnight. Wind increasing to northwest 15 to 25 near noon Thursday.",
+        "forecast": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 knots near noon and to northwest 20 to 30 early this afternoon. Wind becoming northwest 20 near midnight then diminishing to northwest 10 to 15 late overnight. Wind increasing to northwest 15 to 25 near noon Thursday. Scattered showers this morning with a risk of thunderstorms.",
+        "winds": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday. Strong wind warning in effect. Wind light increasing to northwest 15 knots near noon and to northwest 20 to 30 early this afternoon. Wind becoming northwest 20 near midnight then diminishing to northwest 10 to 15 late overnight. Wind increasing to northwest 15 to 25 near noon Thursday.",
         "extended": "Issued&nbsp;04:00 AM PDT 15 April 2026 Friday Wind variable 10 knots increasing to southeast 10 to 20 in the afternoon. Saturday Wind southeast 10 to 20 knots increasing to southeast 20 to 30. Sunday Wind southeast 15 knots.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
         "synopsis": "Issued&nbsp;10:30 AM PDT 15 April 2026 Today Tonight and Thursday At 10:30 a.m. PDT today trough located over northern Vancouver Island. By 4:00 p.m. PDT today departing trough located over southern Vancouver Island. At 10:30 a.m. PDT today building ridge located over Pacific Ocean. By 4:00 p.m. PDT Thursday ridge located over the offshore waters.",
-        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
+        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
         "safetyLevel": "rough"
       },
       "tides": null,
