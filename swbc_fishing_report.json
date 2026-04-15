@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-15T11:21:15.866060+00:00",
+  "fetchedAt": "2026-04-15T12:18:10.867285+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
@@ -38,9 +38,8 @@
         "forecast": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Wind light becoming northerly outflow 10 knots early this morning then becoming light late this morning. Wind becoming southerly inflow 10 to 15 early this afternoon then diminishing to light this evening. Wind becoming northerly outflow 10 to 15 near midnight then diminishing to light Thursday morning. Wind becoming southerly inflow 10 Thursday afternoon. Showers this afternoon.",
         "winds": "Issued&nbsp;04:00 AM PDT 15 April 2026 Today Tonight and Thursday. Wind light becoming northerly outflow 10 knots early this morning then becoming light late this morning. Wind becoming southerly inflow 10 to 15 early this afternoon then diminishing to light this evening. Wind becoming northerly outflow 10 to 15 near midnight then diminishing to light Thursday morning. Wind becoming southerly inflow 10 Thursday afternoon.",
         "extended": "Issued&nbsp;04:00 AM PDT 15 April 2026 Friday Wind northerly outflow 10 knots becoming southerly inflow 10 in the afternoon. Saturday Wind northerly outflow 10 to 20 knots. Sunday Wind light.",
-        "warnings": "Strong wind warning&nbsp;ended Forecast",
+        "warnings": "Forecast",
         "synopsis": "Issued&nbsp;4:00 AM PDT 15 April 2026 Today Tonight and Thursday At 4:00 a.m. PDT today trough located over Queen Charlotte Sound. By 4:00 p.m. PDT today departing trough located over southern Vancouver Island. At 4:00 a.m. PDT today building ridge located over Pacific Ocean. By 4:00 a.m. PDT Thursday ridge located west of Explorer.",
-        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;15&nbsp;April&nbsp;2026",
         "safetyLevel": "good"
       },
       "tides": null,
