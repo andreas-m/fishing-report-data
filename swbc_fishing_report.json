@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-04-17T03:02:01.582718+00:00",
+  "fetchedAt": "2026-04-17T04:57:51.171432+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind light becoming southeast 10 knots early this evening then becoming light near midnight except southwest 5 to 15 south of Tsawwassen. Wind becoming east 5 to 15 early Friday morning then diminishing to light early Friday afternoon.",
-        "winds": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind light becoming southeast 10 knots early this evening then becoming light near midnight except southwest 5 to 15 south of Tsawwassen. Wind becoming east 5 to 15 early Friday morning then diminishing to light early Friday afternoon.",
+        "forecast": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind southeast 10 knots becoming light near midnight then becoming east 5 to 10 early Friday morning. Wind becoming light near noon Friday.",
+        "winds": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind southeast 10 knots becoming light near midnight then becoming east 5 to 10 early Friday morning. Wind becoming light near noon Friday.",
         "extended": "Issued&nbsp;04:00 PM PDT 16 April 2026 Saturday Wind light becoming southeast 5 to 15 knots in the afternoon. Sunday Wind east 5 to 15 knots becoming northwest 5 to 15. Monday Wind northwest 10 to 20 knots.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 16 April 2026 Tonight and Friday At 4:00 p.m. PDT today building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
-        "safetyLevel": "good"
+        "synopsis": "Issued&nbsp;9:30 PM PDT 16 April 2026 Tonight and Friday At 9:30 p.m. PDT tonight building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
+        "safetyLevel": "caution"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
@@ -19,12 +19,12 @@
       "name": "Gulf Islands",
       "short": "Gulf Islands",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Strong wind warning in effect. Wind southerly 5 to 15 knots veering to southwest 15 early this evening except southwest 20 to 25 over southern sections. Wind becoming southwest 10 to 15 late overnight then diminishing to light Friday morning.",
-        "winds": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Strong wind warning in effect. Wind southerly 5 to 15 knots veering to southwest 15 early this evening except southwest 20 to 25 over southern sections. Wind becoming southwest 10 to 15 late overnight then diminishing to light Friday morning.",
+        "forecast": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Strong wind warning in effect. Wind southwest 15 knots except southwest 20 to 25 over southern sections. Wind becoming southwest 10 to 15 late overnight then diminishing to light Friday morning.",
+        "winds": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Strong wind warning in effect. Wind southwest 15 knots except southwest 20 to 25 over southern sections. Wind becoming southwest 10 to 15 late overnight then diminishing to light Friday morning.",
         "extended": "Issued&nbsp;04:00 PM PDT 16 April 2026 Saturday Wind northerly 10 to 15 knots. Sunday Wind southerly 5 to 15 knots becoming light. Monday Wind light becoming west 15 knots late in the day.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 16 April 2026 Tonight and Friday At 4:00 p.m. PDT today building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
-        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;16&nbsp;April&nbsp;2026",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 16 April 2026 Tonight and Friday At 9:30 p.m. PDT tonight building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;16&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
@@ -34,12 +34,12 @@
       "name": "Howe Sound",
       "short": "Howe Sound",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind southerly inflow 10 to 20 knots diminishing to light late this evening then becoming northerly outflow 10 to 15 late overnight. Wind diminishing to light Friday morning then becoming southerly inflow 5 to 15 Friday afternoon. Wind becoming light Friday evening.",
-        "winds": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind southerly inflow 10 to 20 knots diminishing to light late this evening then becoming northerly outflow 10 to 15 late overnight. Wind diminishing to light Friday morning then becoming southerly inflow 5 to 15 Friday afternoon. Wind becoming light Friday evening.",
+        "forecast": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind southerly inflow 10 to 20 knots diminishing to light late this evening then becoming northerly outflow 10 to 15 late overnight. Wind diminishing to light Friday morning then becoming southerly inflow 5 to 15 Friday afternoon. Wind becoming light Friday evening.",
+        "winds": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind southerly inflow 10 to 20 knots diminishing to light late this evening then becoming northerly outflow 10 to 15 late overnight. Wind diminishing to light Friday morning then becoming southerly inflow 5 to 15 Friday afternoon. Wind becoming light Friday evening.",
         "extended": "Issued&nbsp;04:00 PM PDT 16 April 2026 Saturday Wind northerly outflow 10 to 20 knots diminishing to light in the afternoon. Sunday Wind northerly outflow 10 to 20 knots diminishing to light. Monday Wind northerly outflow 10 to 20 knots diminishing to light.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 16 April 2026 Tonight and Friday At 4:00 p.m. PDT today building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
-        "safetyLevel": "good"
+        "synopsis": "Issued&nbsp;9:30 PM PDT 16 April 2026 Tonight and Friday At 9:30 p.m. PDT tonight building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
+        "safetyLevel": "caution"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06400"
@@ -48,12 +48,12 @@
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind light becoming northwest 10 knots late this evening then becoming light early Friday morning. Wind becoming southeast 10 early Friday afternoon then becoming light Friday evening.",
-        "winds": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind light becoming northwest 10 knots late this evening then becoming light early Friday morning. Wind becoming southeast 10 early Friday afternoon then becoming light Friday evening.",
+        "forecast": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind northwest 10 knots becoming light early Friday morning then becoming southeast 10 early Friday afternoon. Wind becoming light Friday evening.",
+        "winds": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind northwest 10 knots becoming light early Friday morning then becoming southeast 10 early Friday afternoon. Wind becoming light Friday evening.",
         "extended": "Issued&nbsp;04:00 PM PDT 16 April 2026 Saturday Wind light becoming southeast 5 to 15 knots in the afternoon. Sunday Wind east 5 to 15 knots becoming northwest 5 to 15. Monday Wind northwest 10 to 20 knots.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 16 April 2026 Tonight and Friday At 4:00 p.m. PDT today building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
-        "safetyLevel": "good"
+        "synopsis": "Issued&nbsp;9:30 PM PDT 16 April 2026 Tonight and Friday At 9:30 p.m. PDT tonight building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
+        "safetyLevel": "caution"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
@@ -62,12 +62,12 @@
       "name": "Pender Harbour",
       "short": "Pender Hbr",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind light becoming northwest 10 knots late this evening then becoming light early Friday morning. Wind becoming southeast 10 early Friday afternoon then becoming light Friday evening.",
-        "winds": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind light becoming northwest 10 knots late this evening then becoming light early Friday morning. Wind becoming southeast 10 early Friday afternoon then becoming light Friday evening.",
+        "forecast": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind northwest 10 knots becoming light early Friday morning then becoming southeast 10 early Friday afternoon. Wind becoming light Friday evening.",
+        "winds": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind northwest 10 knots becoming light early Friday morning then becoming southeast 10 early Friday afternoon. Wind becoming light Friday evening.",
         "extended": "Issued&nbsp;04:00 PM PDT 16 April 2026 Saturday Wind light becoming southeast 5 to 15 knots in the afternoon. Sunday Wind east 5 to 15 knots becoming northwest 5 to 15. Monday Wind northwest 10 to 20 knots.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 16 April 2026 Tonight and Friday At 4:00 p.m. PDT today building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
-        "safetyLevel": "good"
+        "synopsis": "Issued&nbsp;9:30 PM PDT 16 April 2026 Tonight and Friday At 9:30 p.m. PDT tonight building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
+        "safetyLevel": "caution"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
@@ -76,12 +76,12 @@
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind light becoming southeast 10 knots early this evening then becoming light near midnight except southwest 5 to 15 south of Tsawwassen. Wind becoming east 5 to 15 early Friday morning then diminishing to light early Friday afternoon.",
-        "winds": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Wind light becoming southeast 10 knots early this evening then becoming light near midnight except southwest 5 to 15 south of Tsawwassen. Wind becoming east 5 to 15 early Friday morning then diminishing to light early Friday afternoon.",
+        "forecast": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind southeast 10 knots becoming light near midnight then becoming east 5 to 10 early Friday morning. Wind becoming light near noon Friday.",
+        "winds": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Wind southeast 10 knots becoming light near midnight then becoming east 5 to 10 early Friday morning. Wind becoming light near noon Friday.",
         "extended": "Issued&nbsp;04:00 PM PDT 16 April 2026 Saturday Wind light becoming southeast 5 to 15 knots in the afternoon. Sunday Wind east 5 to 15 knots becoming northwest 5 to 15. Monday Wind northwest 10 to 20 knots.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 16 April 2026 Tonight and Friday At 4:00 p.m. PDT today building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
-        "safetyLevel": "good"
+        "synopsis": "Issued&nbsp;9:30 PM PDT 16 April 2026 Tonight and Friday At 9:30 p.m. PDT tonight building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
+        "safetyLevel": "caution"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
@@ -90,12 +90,12 @@
       "name": "Desolation Sound",
       "short": "Desolation",
       "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Strong wind warning in effect. Wind northwest 20 knots diminishing to northwest 10 to 15 near midnight and to light late overnight. Wind becoming southeast 10 to 15 Friday morning then diminishing to light Friday afternoon. Wind becoming southeast 10 to 15 Friday evening.",
-        "winds": "Issued&nbsp;04:00 PM PDT 16 April 2026 Tonight and Friday. Strong wind warning in effect. Wind northwest 20 knots diminishing to northwest 10 to 15 near midnight and to light late overnight. Wind becoming southeast 10 to 15 Friday morning then diminishing to light Friday afternoon. Wind becoming southeast 10 to 15 Friday evening.",
+        "forecast": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Strong wind warning in effect. Wind northwest 20 knots diminishing to northwest 10 to 15 near midnight and to light late overnight. Wind becoming southeast 10 to 15 Friday morning then diminishing to light Friday afternoon. Wind becoming southeast 10 to 15 Friday evening.",
+        "winds": "Issued&nbsp;09:30 PM PDT 16 April 2026 Tonight and Friday. Strong wind warning in effect. Wind northwest 20 knots diminishing to northwest 10 to 15 near midnight and to light late overnight. Wind becoming southeast 10 to 15 Friday morning then diminishing to light Friday afternoon. Wind becoming southeast 10 to 15 Friday evening.",
         "extended": "Issued&nbsp;04:00 PM PDT 16 April 2026 Saturday Wind southeast 10 to 20 knots increasing to southeast 20 to 30 in the afternoon. Sunday Wind southeast 15 knots. Monday Wind northwest 15 knots.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 16 April 2026 Tonight and Friday At 4:00 p.m. PDT today building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
-        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;16&nbsp;April&nbsp;2026",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 16 April 2026 Tonight and Friday At 9:30 p.m. PDT tonight building ridge located west of the offshore waters. By 4:00 a.m. PDT Friday ridge located over the Central Coast to Explorer. By 10:30 a.m. PDT Friday approaching frontal system located southwest of Explorer.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;16&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
