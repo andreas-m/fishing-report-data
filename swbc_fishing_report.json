@@ -1,52 +1,103 @@
 {
-  "fetchedAt": "2026-04-17T10:25:12.617518+00:00",
+  "fetchedAt": "2026-04-17T11:18:33.226487+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind easterly 10 knots except northwest 5 to 10 near Vancouver Island. Wind becoming southeast 10 early this morning then becoming light early this afternoon except southeast 10 near Vancouver Island Saturday.",
+        "winds": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind easterly 10 knots except northwest 5 to 10 near Vancouver Island. Wind becoming southeast 10 early this morning then becoming light early this afternoon except southeast 10 near Vancouver Island Saturday.",
+        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 17 April 2026 Today Tonight and Saturday At 4:00 a.m. PDT today ridge located on a line north-south over Queen Charlotte Sound. By 4:00 p.m. PDT today weakening ridge located over central Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 4:00 p.m. PDT Saturday frontal system located on a line northwest-southeast over the offshore waters.",
+        "safetyLevel": "good"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Gulf Islands",
       "short": "Gulf Islands",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind southwest 5 to 15 knots becoming light this morning then becoming northerly 10 late overnight. Wind becoming light Saturday evening.",
+        "winds": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind southwest 5 to 15 knots becoming light this morning then becoming northerly 10 late overnight. Wind becoming light Saturday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind northerly 5 to 15 knots becoming light in the afternoon. Monday Wind northerly 5 to 15 knots becoming light. Tuesday Wind southeast 5 to 15 knots becoming west 5 to 15.",
+        "warnings": "Strong wind warning&nbsp;ended Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 17 April 2026 Today Tonight and Saturday At 4:00 a.m. PDT today ridge located on a line north-south over Queen Charlotte Sound. By 4:00 p.m. PDT today weakening ridge located over central Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 4:00 p.m. PDT Saturday frontal system located on a line northwest-southeast over the offshore waters.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
+        "safetyLevel": "good"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06100"
     },
     {
       "name": "Howe Sound",
       "short": "Howe Sound",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind northerly outflow 10 to 20 knots diminishing to light this morning then becoming southerly inflow 5 to 15 early this afternoon. Wind becoming northerly outflow 5 to 15 this evening then increasing to northerly outflow 15 to 20 near midnight. Wind diminishing to light Saturday morning then becoming northerly outflow 5 to 15 Saturday evening.",
+        "winds": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind northerly outflow 10 to 20 knots diminishing to light this morning then becoming southerly inflow 5 to 15 early this afternoon. Wind becoming northerly outflow 5 to 15 this evening then increasing to northerly outflow 15 to 20 near midnight. Wind diminishing to light Saturday morning then becoming northerly outflow 5 to 15 Saturday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind northerly outflow 15 to 20 knots diminishing to light in the afternoon. Monday Wind northerly outflow 10 to 20 knots diminishing to light. Tuesday Wind light becoming southerly inflow 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 17 April 2026 Today Tonight and Saturday At 4:00 a.m. PDT today ridge located on a line north-south over Queen Charlotte Sound. By 4:00 p.m. PDT today weakening ridge located over central Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 4:00 p.m. PDT Saturday frontal system located on a line northwest-southeast over the offshore waters.",
+        "safetyLevel": "good"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06400"
     },
     {
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind northwest 5 to 15 knots becoming southeast 5 to 15 this morning then becoming light this evening. Wind becoming southeast 5 to 15 Saturday morning then becoming light Saturday evening.",
+        "winds": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind northwest 5 to 15 knots becoming southeast 5 to 15 this morning then becoming light this evening. Wind becoming southeast 5 to 15 Saturday morning then becoming light Saturday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 17 April 2026 Today Tonight and Saturday At 4:00 a.m. PDT today ridge located on a line north-south over Queen Charlotte Sound. By 4:00 p.m. PDT today weakening ridge located over central Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 4:00 p.m. PDT Saturday frontal system located on a line northwest-southeast over the offshore waters.",
+        "safetyLevel": "good"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Pender Harbour",
       "short": "Pender Hbr",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind northwest 5 to 15 knots becoming southeast 5 to 15 this morning then becoming light this evening. Wind becoming southeast 5 to 15 Saturday morning then becoming light Saturday evening.",
+        "winds": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind northwest 5 to 15 knots becoming southeast 5 to 15 this morning then becoming light this evening. Wind becoming southeast 5 to 15 Saturday morning then becoming light Saturday evening.",
+        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 17 April 2026 Today Tonight and Saturday At 4:00 a.m. PDT today ridge located on a line north-south over Queen Charlotte Sound. By 4:00 p.m. PDT today weakening ridge located over central Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 4:00 p.m. PDT Saturday frontal system located on a line northwest-southeast over the offshore waters.",
+        "safetyLevel": "good"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind easterly 10 knots except northwest 5 to 10 near Vancouver Island. Wind becoming southeast 10 early this morning then becoming light early this afternoon except southeast 10 near Vancouver Island Saturday.",
+        "winds": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Wind easterly 10 knots except northwest 5 to 10 near Vancouver Island. Wind becoming southeast 10 early this morning then becoming light early this afternoon except southeast 10 near Vancouver Island Saturday.",
+        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 17 April 2026 Today Tonight and Saturday At 4:00 a.m. PDT today ridge located on a line north-south over Queen Charlotte Sound. By 4:00 p.m. PDT today weakening ridge located over central Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 4:00 p.m. PDT Saturday frontal system located on a line northwest-southeast over the offshore waters.",
+        "safetyLevel": "good"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Desolation Sound",
       "short": "Desolation",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Strong wind warning in effect. Wind northwest 10 to 20 knots becoming southeast 5 to 15 early this morning then increasing to southeast 15 to 25 Saturday morning. Scattered showers Saturday morning. Periods of rain Saturday evening. Fog patches dissipating this morning.",
+        "winds": "Issued&nbsp;04:00 AM PDT 17 April 2026 Today Tonight and Saturday. Strong wind warning in effect. Wind northwest 10 to 20 knots becoming southeast 5 to 15 early this morning then increasing to southeast 15 to 25 Saturday morning.",
+        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind southeast 20 to 30 knots diminishing to southeast 10 to 20 in the afternoon then becoming northwest 5 to 15 late in the day. Monday Wind light becoming northwest 5 to 15 knots. Tuesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;4:00 AM PDT 17 April 2026 Today Tonight and Saturday At 4:00 a.m. PDT today ridge located on a line north-south over Queen Charlotte Sound. By 4:00 p.m. PDT today weakening ridge located over central Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 4:00 p.m. PDT Saturday frontal system located on a line northwest-southeast over the offshore waters.",
+        "issued": "04:00&nbsp;AM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06800"
     }
