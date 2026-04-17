@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-04-17T22:11:44.062429+00:00",
+  "fetchedAt": "2026-04-17T23:12:59.449133+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
       "weather": {
-        "forecast": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind east 10 knots becoming light early this afternoon except southeast 10 to 15 near Vancouver Island Saturday.",
-        "winds": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind east 10 knots becoming light early this afternoon except southeast 10 to 15 near Vancouver Island Saturday.",
-        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "forecast": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "winds": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday At 10:30 a.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "safetyLevel": "caution"
+        "synopsis": "Issued&nbsp;4:00 PM PDT 17 April 2026 Tonight and Saturday At 4:00 p.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "good"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
@@ -19,12 +19,12 @@
       "name": "Gulf Islands",
       "short": "Gulf Islands",
       "weather": {
-        "forecast": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind light becoming northerly 10 knots late overnight. Wind northeast 10 Saturday.",
-        "winds": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind light becoming northerly 10 knots late overnight. Wind northeast 10 Saturday.",
-        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind northerly 5 to 15 knots becoming light in the afternoon. Monday Wind northerly 5 to 15 knots becoming light. Tuesday Wind southeast 5 to 15 knots becoming west 5 to 15.",
+        "forecast": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind light becoming northerly 10 knots late overnight. Wind northeast 10 Saturday.",
+        "winds": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind light becoming northerly 10 knots late overnight. Wind northeast 10 Saturday.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind northerly 5 to 15 knots becoming light in the morning then becoming northerly 5 to 15 late in the day. Monday Wind northerly 5 to 15 knots becoming light. Tuesday Wind southeast 5 to 15 knots becoming west 5 to 15.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday At 10:30 a.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "safetyLevel": "caution"
+        "synopsis": "Issued&nbsp;4:00 PM PDT 17 April 2026 Tonight and Saturday At 4:00 p.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "good"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06100"
@@ -33,12 +33,12 @@
       "name": "Howe Sound",
       "short": "Howe Sound",
       "weather": {
-        "forecast": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Strong wind warning in effect. Wind light becoming southerly inflow 5 to 15 knots early this afternoon then becoming northerly outflow 5 to 15 this evening. Wind increasing to northerly outflow 15 to 25 near midnight then diminishing to light Saturday morning. Wind increasing to northerly outflow 10 to 20 Saturday evening.",
-        "winds": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Strong wind warning in effect. Wind light becoming southerly inflow 5 to 15 knots early this afternoon then becoming northerly outflow 5 to 15 this evening. Wind increasing to northerly outflow 15 to 25 near midnight then diminishing to light Saturday morning. Wind increasing to northerly outflow 10 to 20 Saturday evening.",
-        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind northerly outflow 15 to 20 knots diminishing to light in the afternoon. Monday Wind northerly outflow 10 to 20 knots diminishing to light. Tuesday Wind light becoming southerly inflow 5 to 15 knots.",
+        "forecast": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Strong wind warning in effect. Wind southerly inflow 5 to 15 knots becoming northerly outflow 5 to 15 this evening then increasing to northerly outflow 15 to 25 near midnight. Wind diminishing to light late Saturday morning then increasing to southerly inflow 5 to 15 early Saturday afternoon. Wind becoming northerly outflow 10 to 20 Saturday evening.",
+        "winds": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Strong wind warning in effect. Wind southerly inflow 5 to 15 knots becoming northerly outflow 5 to 15 this evening then increasing to northerly outflow 15 to 25 near midnight. Wind diminishing to light late Saturday morning then increasing to southerly inflow 5 to 15 early Saturday afternoon. Wind becoming northerly outflow 10 to 20 Saturday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind northerly outflow 20 to 30 knots diminishing to light in the afternoon then becoming northerly outflow 5 to 15 late in the day. Monday Wind northerly outflow 15 to 25 knots diminishing to light. Tuesday Wind light becoming southerly inflow 5 to 15 knots.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday At 10:30 a.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
+        "synopsis": "Issued&nbsp;4:00 PM PDT 17 April 2026 Tonight and Saturday At 4:00 p.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
@@ -48,12 +48,12 @@
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
       "weather": {
-        "forecast": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind light becoming southeast 5 to 15 knots near noon then becoming light this evening. Wind becoming southeast 5 to 15 near noon Saturday then becoming light Saturday evening.",
-        "winds": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind light becoming southeast 5 to 15 knots near noon then becoming light this evening. Wind becoming southeast 5 to 15 near noon Saturday then becoming light Saturday evening.",
-        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "forecast": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind southeast 5 to 15 knots becoming light this evening then becoming southeast 5 to 15 near noon Saturday. Wind becoming light Saturday evening.",
+        "winds": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind southeast 5 to 15 knots becoming light this evening then becoming southeast 5 to 15 near noon Saturday. Wind becoming light Saturday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday At 10:30 a.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "safetyLevel": "caution"
+        "synopsis": "Issued&nbsp;4:00 PM PDT 17 April 2026 Tonight and Saturday At 4:00 p.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "good"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
@@ -62,12 +62,12 @@
       "name": "Pender Harbour",
       "short": "Pender Hbr",
       "weather": {
-        "forecast": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind light becoming southeast 5 to 15 knots near noon then becoming light this evening. Wind becoming southeast 5 to 15 near noon Saturday then becoming light Saturday evening.",
-        "winds": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind light becoming southeast 5 to 15 knots near noon then becoming light this evening. Wind becoming southeast 5 to 15 near noon Saturday then becoming light Saturday evening.",
-        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "forecast": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind southeast 5 to 15 knots becoming light this evening then becoming southeast 5 to 15 near noon Saturday. Wind becoming light Saturday evening.",
+        "winds": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind southeast 5 to 15 knots becoming light this evening then becoming southeast 5 to 15 near noon Saturday. Wind becoming light Saturday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday At 10:30 a.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "safetyLevel": "caution"
+        "synopsis": "Issued&nbsp;4:00 PM PDT 17 April 2026 Tonight and Saturday At 4:00 p.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "good"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
@@ -76,12 +76,12 @@
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
       "weather": {
-        "forecast": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind east 10 knots becoming light early this afternoon except southeast 10 to 15 near Vancouver Island Saturday.",
-        "winds": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Wind east 10 knots becoming light early this afternoon except southeast 10 to 15 near Vancouver Island Saturday.",
-        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "forecast": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "winds": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
         "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday At 10:30 a.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "safetyLevel": "caution"
+        "synopsis": "Issued&nbsp;4:00 PM PDT 17 April 2026 Tonight and Saturday At 4:00 p.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "good"
       },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
@@ -90,12 +90,12 @@
       "name": "Desolation Sound",
       "short": "Desolation",
       "weather": {
-        "forecast": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Strong wind warning in effect. Wind southeast 5 to 15 knots increasing to southeast 15 to 25 early Saturday morning. Scattered showers and fog patches ending near noon. Scattered showers Saturday morning. Periods of rain Saturday evening.",
-        "winds": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday. Strong wind warning in effect. Wind southeast 5 to 15 knots increasing to southeast 15 to 25 early Saturday morning.",
-        "extended": "Issued&nbsp;04:00 AM PDT 17 April 2026 Sunday Wind southeast 20 to 30 knots diminishing to southeast 10 to 20 in the afternoon then becoming northwest 5 to 15 late in the day. Monday Wind light becoming northwest 5 to 15 knots. Tuesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25.",
+        "forecast": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Strong wind warning in effect. Wind southeast 5 to 15 knots increasing to southeast 15 to 25 Saturday morning. Scattered showers Saturday morning. Periods of rain Saturday evening.",
+        "winds": "Issued&nbsp;04:00 PM PDT 17 April 2026 Tonight and Saturday. Strong wind warning in effect. Wind southeast 5 to 15 knots increasing to southeast 15 to 25 Saturday morning.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind southeast 20 to 30 knots diminishing to southeast 10 to 20 in the afternoon then becoming northwest 5 to 15 late in the day. Monday Wind light becoming northwest 5 to 15 knots. Tuesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;10:30 AM PDT 17 April 2026 Today Tonight and Saturday At 10:30 a.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "issued": "10:30&nbsp;AM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
+        "synopsis": "Issued&nbsp;4:00 PM PDT 17 April 2026 Tonight and Saturday At 4:00 p.m. PDT today ridge located on a line north-south over northern Vancouver Island. By 4:00 p.m. PDT today weakening ridge located on a line north-south over southern Vancouver Island. At 4:00 p.m. PDT today frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
