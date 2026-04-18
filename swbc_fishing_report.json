@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-04-18T07:25:39.777905+00:00",
+  "fetchedAt": "2026-04-18T08:13:03.562690+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
-        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "forecast": "Issued&nbsp;00:27 AM PDT 18 April 2026 Saturday. Wind light except northeast 10 to 15 knots near the mouth of Howe Sound Saturday morning and southeast 5 to 15 near Vancouver Island Saturday.",
+        "winds": "Issued&nbsp;00:27 AM PDT 18 April 2026 Saturday. Wind light except northeast 10 to 15 knots near the mouth of Howe Sound Saturday morning and southeast 5 to 15 near Vancouver Island Saturday.",
         "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
         "warnings": "Forecast",
         "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
@@ -38,7 +38,7 @@
         "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind northerly outflow 20 to 30 knots diminishing to light in the afternoon then becoming northerly outflow 5 to 15 late in the day. Monday Wind northerly outflow 15 to 25 knots diminishing to light. Tuesday Wind light becoming southerly inflow 5 to 15 knots.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
         "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
+        "issued": "00:27&nbsp;AM&nbsp;PDT&nbsp;18&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
@@ -76,8 +76,8 @@
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
       "weather": {
-        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
-        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "forecast": "Issued&nbsp;00:27 AM PDT 18 April 2026 Saturday. Wind light except northeast 10 to 15 knots near the mouth of Howe Sound Saturday morning and southeast 5 to 15 near Vancouver Island Saturday.",
+        "winds": "Issued&nbsp;00:27 AM PDT 18 April 2026 Saturday. Wind light except northeast 10 to 15 knots near the mouth of Howe Sound Saturday morning and southeast 5 to 15 near Vancouver Island Saturday.",
         "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
         "warnings": "Forecast",
         "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
@@ -95,7 +95,7 @@
         "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind southeast 20 to 30 knots diminishing to southeast 10 to 20 in the afternoon then becoming northwest 5 to 15 late in the day. Monday Wind light becoming northwest 5 to 15 knots. Tuesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25.",
         "warnings": "Strong wind warning&nbsp;in effect Forecast",
         "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
-        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
+        "issued": "00:27&nbsp;AM&nbsp;PDT&nbsp;18&nbsp;April&nbsp;2026",
         "safetyLevel": "caution"
       },
       "tides": null,
