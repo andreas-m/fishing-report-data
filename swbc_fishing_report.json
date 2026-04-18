@@ -1,52 +1,103 @@
 {
-  "fetchedAt": "2026-04-18T03:01:24.676925+00:00",
+  "fetchedAt": "2026-04-18T04:45:52.378692+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Gulf Islands",
       "short": "Gulf Islands",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light becoming northerly 10 knots late overnight. Wind northeast 10 Saturday.",
+        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light becoming northerly 10 knots late overnight. Wind northeast 10 Saturday.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind northerly 5 to 15 knots becoming light in the morning then becoming northerly 5 to 15 late in the day. Monday Wind northerly 5 to 15 knots becoming light. Tuesday Wind southeast 5 to 15 knots becoming west 5 to 15.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06100"
     },
     {
       "name": "Howe Sound",
       "short": "Howe Sound",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Strong wind warning in effect. Wind northerly outflow 5 to 15 knots increasing to northerly outflow 15 to 25 near midnight then diminishing to light late Saturday morning. Wind increasing to southerly inflow 5 to 15 early Saturday afternoon then becoming northerly outflow 10 to 20 Saturday evening.",
+        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Strong wind warning in effect. Wind northerly outflow 5 to 15 knots increasing to northerly outflow 15 to 25 near midnight then diminishing to light late Saturday morning. Wind increasing to southerly inflow 5 to 15 early Saturday afternoon then becoming northerly outflow 10 to 20 Saturday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind northerly outflow 20 to 30 knots diminishing to light in the afternoon then becoming northerly outflow 5 to 15 late in the day. Monday Wind northerly outflow 15 to 25 knots diminishing to light. Tuesday Wind light becoming southerly inflow 5 to 15 knots.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06400"
     },
     {
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light becoming southeast 5 to 15 knots near noon Saturday then becoming light Saturday evening.",
+        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light becoming southeast 5 to 15 knots near noon Saturday then becoming light Saturday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Pender Harbour",
       "short": "Pender Hbr",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light becoming southeast 5 to 15 knots near noon Saturday then becoming light Saturday evening.",
+        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light becoming southeast 5 to 15 knots near noon Saturday then becoming light Saturday evening.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Wind light except southeast 10 to 15 knots near Vancouver Island Saturday.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind light increasing to northwest 5 to 15 knots in the morning and to northwest 15 to 25 in the afternoon. Monday Wind northwest 10 to 20 knots. Tuesday Wind southeast 5 to 15 knots.",
+        "warnings": "Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Desolation Sound",
       "short": "Desolation",
-      "weather": null,
+      "weather": {
+        "forecast": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Strong wind warning in effect. Wind southeast 5 to 15 knots increasing to southeast 15 to 25 Saturday morning. Scattered showers Saturday morning. Periods of rain Saturday evening.",
+        "winds": "Issued&nbsp;09:30 PM PDT 17 April 2026 Tonight and Saturday. Strong wind warning in effect. Wind southeast 5 to 15 knots increasing to southeast 15 to 25 Saturday morning.",
+        "extended": "Issued&nbsp;04:00 PM PDT 17 April 2026 Sunday Wind southeast 20 to 30 knots diminishing to southeast 10 to 20 in the afternoon then becoming northwest 5 to 15 late in the day. Monday Wind light becoming northwest 5 to 15 knots. Tuesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25.",
+        "warnings": "Strong wind warning&nbsp;in effect Forecast",
+        "synopsis": "Issued&nbsp;9:30 PM PDT 17 April 2026 Tonight and Saturday At 9:30 p.m. PDT tonight frontal system located west of the offshore waters. By 10:30 a.m. PDT Saturday frontal system located near Haida Gwaii.",
+        "issued": "9:30&nbsp;PM&nbsp;PDT&nbsp;17&nbsp;April&nbsp;2026",
+        "safetyLevel": "caution"
+      },
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06800"
     }
