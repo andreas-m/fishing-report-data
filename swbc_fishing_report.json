@@ -1,107 +1,52 @@
 {
-  "fetchedAt": "2026-04-19T03:02:12.614510+00:00",
+  "fetchedAt": "2026-04-19T04:59:02.371054+00:00",
   "regions": [
     {
       "name": "Fraser River Mouth & Boundary Bay",
       "short": "Fraser",
-      "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind light except southeast 10 to 15 knots near Vancouver Island late this afternoon and northeast 10 to 20 near the mouth of Howe Sound overnight. Wind becoming northwest 5 to 15 early Sunday morning except northeast 10 to 20 near the mouth of Howe Sound. Wind becoming northwest 15 to 20 near noon Sunday then increasing to northwest 20 to 25 Sunday evening.",
-        "winds": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind light except southeast 10 to 15 knots near Vancouver Island late this afternoon and northeast 10 to 20 near the mouth of Howe Sound overnight. Wind becoming northwest 5 to 15 early Sunday morning except northeast 10 to 20 near the mouth of Howe Sound. Wind becoming northwest 15 to 20 near noon Sunday then increasing to northwest 20 to 25 Sunday evening.",
-        "extended": "Issued&nbsp;04:00 PM PDT 18 April 2026 Monday Wind northwest 10 to 20 knots becoming variable 5 to 15 late in the day. Tuesday Wind southeast 5 to 15 knots becoming northwest 10 to 20 late in the day. Wednesday Wind northwest 15 to 25 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 18 April 2026 Tonight and Sunday At 4:00 p.m. PDT today quasi-stationary frontal system located from Haida Gwaii to Explorer. At 4:00 a.m. PDT Sunday weakening frontal system located from Cape St. James to Explorer. By 4:00 p.m. PDT Sunday departing trough located southwest of Explorer. At 4:00 p.m. PDT Sunday building ridge located on a line northeast-southwest over the Alaska panhandle.",
-        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;18&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
-      },
+      "weather": null,
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Gulf Islands",
       "short": "Gulf Islands",
-      "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Wind variable 5 to 15 knots becoming northerly 10 to 15 near midnight. Wind northerly 10 to 15 Sunday.",
-        "winds": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Wind variable 5 to 15 knots becoming northerly 10 to 15 near midnight. Wind northerly 10 to 15 Sunday.",
-        "extended": "Issued&nbsp;04:00 PM PDT 18 April 2026 Monday Wind light becoming northerly 5 to 15 knots in the morning then becoming southwest 5 to 15 in the afternoon. Tuesday Wind southwest 5 to 15 knots. Wednesday Wind southwest 5 to 15 knots becoming light.",
-        "warnings": "Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 18 April 2026 Tonight and Sunday At 4:00 p.m. PDT today quasi-stationary frontal system located from Haida Gwaii to Explorer. At 4:00 a.m. PDT Sunday weakening frontal system located from Cape St. James to Explorer. By 4:00 p.m. PDT Sunday departing trough located southwest of Explorer. At 4:00 p.m. PDT Sunday building ridge located on a line northeast-southwest over the Alaska panhandle.",
-        "safetyLevel": "good"
-      },
+      "weather": null,
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06100"
     },
     {
       "name": "Howe Sound",
       "short": "Howe Sound",
-      "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind light except southerly inflow 10 to 15 knots over northern sections. Wind becoming northerly outflow 10 to 20 this evening then increasing to northerly outflow 20 to 30 near midnight. Wind diminishing to northerly outflow 5 to 15 near noon Sunday.",
-        "winds": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind light except southerly inflow 10 to 15 knots over northern sections. Wind becoming northerly outflow 10 to 20 this evening then increasing to northerly outflow 20 to 30 near midnight. Wind diminishing to northerly outflow 5 to 15 near noon Sunday.",
-        "extended": "Issued&nbsp;04:00 PM PDT 18 April 2026 Monday Wind northerly outflow 15 to 25 knots diminishing to light in the morning. Tuesday Wind northerly outflow 5 to 15 knots becoming southerly inflow 5 to 15. Wednesday Wind northerly outflow 5 to 15 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 18 April 2026 Tonight and Sunday At 4:00 p.m. PDT today quasi-stationary frontal system located from Haida Gwaii to Explorer. At 4:00 a.m. PDT Sunday weakening frontal system located from Cape St. James to Explorer. By 4:00 p.m. PDT Sunday departing trough located southwest of Explorer. At 4:00 p.m. PDT Sunday building ridge located on a line northeast-southwest over the Alaska panhandle.",
-        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;18&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
-      },
+      "weather": null,
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06400"
     },
     {
       "name": "Sunshine Coast South",
       "short": "Sunshine S.",
-      "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind southeast 5 to 15 knots becoming light this evening then becoming northwest 5 to 15 late overnight except northwest 20 over southern sections Sunday late in the day.",
-        "winds": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind southeast 5 to 15 knots becoming light this evening then becoming northwest 5 to 15 late overnight except northwest 20 over southern sections Sunday late in the day.",
-        "extended": "Issued&nbsp;04:00 PM PDT 18 April 2026 Monday Wind northwest 10 to 20 knots becoming variable 5 to 15 late in the day. Tuesday Wind southeast 5 to 15 knots becoming northwest 10 to 20 late in the day. Wednesday Wind northwest 15 to 25 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 18 April 2026 Tonight and Sunday At 4:00 p.m. PDT today quasi-stationary frontal system located from Haida Gwaii to Explorer. At 4:00 a.m. PDT Sunday weakening frontal system located from Cape St. James to Explorer. By 4:00 p.m. PDT Sunday departing trough located southwest of Explorer. At 4:00 p.m. PDT Sunday building ridge located on a line northeast-southwest over the Alaska panhandle.",
-        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;18&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
-      },
+      "weather": null,
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Pender Harbour",
       "short": "Pender Hbr",
-      "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind southeast 5 to 15 knots becoming light this evening then becoming northwest 5 to 15 late overnight except northwest 20 over southern sections Sunday late in the day.",
-        "winds": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind southeast 5 to 15 knots becoming light this evening then becoming northwest 5 to 15 late overnight except northwest 20 over southern sections Sunday late in the day.",
-        "extended": "Issued&nbsp;04:00 PM PDT 18 April 2026 Monday Wind northwest 10 to 20 knots becoming variable 5 to 15 late in the day. Tuesday Wind southeast 5 to 15 knots becoming northwest 10 to 20 late in the day. Wednesday Wind northwest 15 to 25 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 18 April 2026 Tonight and Sunday At 4:00 p.m. PDT today quasi-stationary frontal system located from Haida Gwaii to Explorer. At 4:00 a.m. PDT Sunday weakening frontal system located from Cape St. James to Explorer. By 4:00 p.m. PDT Sunday departing trough located southwest of Explorer. At 4:00 p.m. PDT Sunday building ridge located on a line northeast-southwest over the Alaska panhandle.",
-        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;18&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
-      },
+      "weather": null,
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14301"
     },
     {
       "name": "Central Strait of Georgia",
       "short": "C. Georgia",
-      "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind light except southeast 10 to 15 knots near Vancouver Island late this afternoon and northeast 10 to 20 near the mouth of Howe Sound overnight. Wind becoming northwest 5 to 15 early Sunday morning except northeast 10 to 20 near the mouth of Howe Sound. Wind becoming northwest 15 to 20 near noon Sunday then increasing to northwest 20 to 25 Sunday evening.",
-        "winds": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind light except southeast 10 to 15 knots near Vancouver Island late this afternoon and northeast 10 to 20 near the mouth of Howe Sound overnight. Wind becoming northwest 5 to 15 early Sunday morning except northeast 10 to 20 near the mouth of Howe Sound. Wind becoming northwest 15 to 20 near noon Sunday then increasing to northwest 20 to 25 Sunday evening.",
-        "extended": "Issued&nbsp;04:00 PM PDT 18 April 2026 Monday Wind northwest 10 to 20 knots becoming variable 5 to 15 late in the day. Tuesday Wind southeast 5 to 15 knots becoming northwest 10 to 20 late in the day. Wednesday Wind northwest 15 to 25 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 18 April 2026 Tonight and Sunday At 4:00 p.m. PDT today quasi-stationary frontal system located from Haida Gwaii to Explorer. At 4:00 a.m. PDT Sunday weakening frontal system located from Cape St. James to Explorer. By 4:00 p.m. PDT Sunday departing trough located southwest of Explorer. At 4:00 p.m. PDT Sunday building ridge located on a line northeast-southwest over the Alaska panhandle.",
-        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;18&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
-      },
+      "weather": null,
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=14305"
     },
     {
       "name": "Desolation Sound",
       "short": "Desolation",
-      "weather": {
-        "forecast": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind southeast 15 to 25 knots diminishing to southeast 5 to 15 after midnight then becoming light Sunday morning. Wind becoming northwest 5 to 15 Sunday evening. Showers tonight.",
-        "winds": "Issued&nbsp;04:00 PM PDT 18 April 2026 Tonight and Sunday. Strong wind warning in effect. Wind southeast 15 to 25 knots diminishing to southeast 5 to 15 after midnight then becoming light Sunday morning. Wind becoming northwest 5 to 15 Sunday evening.",
-        "extended": "Issued&nbsp;04:00 PM PDT 18 April 2026 Monday Wind light increasing to northwest 10 to 20 knots in the afternoon. Tuesday Wind northwest 5 to 15 knots increasing to northwest 15 to 25. Wednesday Wind northwest 25 to 35 knots.",
-        "warnings": "Strong wind warning&nbsp;in effect Forecast",
-        "synopsis": "Issued&nbsp;4:00 PM PDT 18 April 2026 Tonight and Sunday At 4:00 p.m. PDT today quasi-stationary frontal system located from Haida Gwaii to Explorer. At 4:00 a.m. PDT Sunday weakening frontal system located from Cape St. James to Explorer. By 4:00 p.m. PDT Sunday departing trough located southwest of Explorer. At 4:00 p.m. PDT Sunday building ridge located on a line northeast-southwest over the Alaska panhandle.",
-        "issued": "4:00&nbsp;PM&nbsp;PDT&nbsp;18&nbsp;April&nbsp;2026",
-        "safetyLevel": "caution"
-      },
+      "weather": null,
       "tides": null,
       "weatherUrl": "https://weather.gc.ca/marine/forecast_e.html?mapID=02&siteID=06800"
     }
